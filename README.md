@@ -1,5 +1,9 @@
 -Abre tu terminal de VS Code) e instala Streamlit con el siguiente comando:
+
 -pip install streamlit
+
 -Ejecuta la aplicación con Streamlit:
+
 -streamlit run app.py
+
 -¡Listo! Automáticamente se abrirá una pestaña en tu navegador web (normalmente en la dirección http://localhost:8501) con tu sistema de "Captcha Vial y Urbano".
